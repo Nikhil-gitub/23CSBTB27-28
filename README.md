@@ -8,3 +8,4 @@
 7. [https://github.com/Nikhil-gitub/23CSBTB27-28/blob/main/GAME_4.ipynb]
 8. [https://github.com/Nikhil-gitub/23CSBTB27-28/blob/main/GAME-5.ipynb]
 9. [https://github.com/Nikhil-gitub/23CSBTB27-28/blob/main/GAME-6.ipynb]
+10. [https://github.com/Nikhil-gitub/23CSBTB27-28/blob/main/GAME-7.ipynb]
